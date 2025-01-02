@@ -34,6 +34,7 @@ Here are a few projects I've been working on:
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/julianacastilloaraujo)
+- [Instagran](https://www.instagram.com/julianacastilloaraujo/)
 - [Twitter](https://twitter.com/jcastilloaraujo)
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any project or just have a chat.
