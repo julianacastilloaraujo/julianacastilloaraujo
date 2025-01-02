@@ -30,6 +30,7 @@ Here are a few projects I've been working on:
 ## GitHub Stats
 
 ![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianacastilloaraujo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianacastilloaraujo)](https://github.com/julianacastilloaraujo/github-readme-stats)
 
 ## Connect with Me
 
