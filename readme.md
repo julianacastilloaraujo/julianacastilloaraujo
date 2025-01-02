@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 - 🌱 I’m currently learning and exploring new technologies.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Python, JavaScript, and data analysis.
-- 📫 How to reach me: [juliana@example.com](mailto:juliana@example.com)
+- 📫 How to reach me: [julianacastilloarauj@icloud.com](mailto:julianacastilloarauj@icloud.com)
 - ⚡ Fun fact: I love hiking and exploring nature.
 
 ## Technologies & Tools
