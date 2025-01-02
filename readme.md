@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about software development, data science, and continuous learning. Here you'll find a collection of my projects, contributions, and a bit about me.
 
-## About Me
+## About Me 😊
 
 - 🌱 I’m currently learning and exploring new technologies.
 - 👯 I’m looking to collaborate on open-source projects.
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 - 📫 How to reach me: [julianacastilloarauj@icloud.com](mailto:julianacastilloarauj@icloud.com)
 - ⚡ Fun fact: I love hiking and exploring nature.
 
-## Technologies & Tools
+## Technologies & Tools ❤️
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -20,19 +20,19 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## Projects
+## Projects 👌
 
 Here are a few projects I've been working on:
 
 - [**Project Name**](https://github.com/julianacastilloaraujo/project-name): A brief description of your project.
 - [**Another Project**](https://github.com/julianacastilloaraujo/another-project): A brief description of another project.
 
-## GitHub Stats
+## GitHub Stats 🙌
 
 ![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianacastilloaraujo&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianacastilloaraujo)](https://github.com/julianacastilloaraujo/github-readme-stats)
 
-## Connect with Me
+## Connect with Me 😍
 
 - [LinkedIn](https://www.linkedin.com/in/julianacastilloaraujo)
 - [Instagram](https://www.instagram.com/julianacastilloaraujo/)
