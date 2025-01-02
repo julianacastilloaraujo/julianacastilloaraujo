@@ -35,7 +35,7 @@ Here are a few projects I've been working on:
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/julianacastilloaraujo)
-- [Instagran](https://www.instagram.com/julianacastilloaraujo/)
+- [Instagram](https://www.instagram.com/julianacastilloaraujo/)
 - [Facebook](http://facebook.com/julianacastilloaraujo)
 - [Twitter](https://twitter.com/jcastilloaraujo)
 
