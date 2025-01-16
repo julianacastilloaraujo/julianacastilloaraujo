@@ -25,12 +25,7 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 Here are a few projects I've been working on:
 
 - [**Project Name**](https://github.com/julianacastilloaraujo/project-name): A brief description of your project.
-- [**Another Project**](https://github.com/julianacastilloaraujo/another-project): A brief description of another project.
-
-## GitHub Stats 🙌
-
-![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianacastilloaraujo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianacastilloaraujo)](https://github.com/julianacastilloaraujo/github-readme-stats)
+- [**Another Project**](https://github.com/julianacastilloaraujo/another-project): A brief description of another 
 
 ## Connect with Me 😍
 
