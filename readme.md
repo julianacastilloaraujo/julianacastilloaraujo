@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 Here are a few projects I've been working on:
 
 - [**Project Name**](https://github.com/julianacastilloaraujo/project-name): A brief description of your project.
-- [**Another Project**](https://github.com/julianacastilloaraujo/another-project): A brief description of another 
+
 
 ## Connect with Me 😍
 
