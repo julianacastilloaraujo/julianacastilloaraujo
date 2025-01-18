@@ -22,9 +22,7 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 
 ## Connect with Me 😍
 
-- [LinkedIn](https://www.linkedin.com/in/julianacastilloaraujo)
-- [Instagram](https://www.instagram.com/julianacastilloaraujo/)
-- [Facebook](http://facebook.com/julianacastilloaraujo)
+
 - [Twitter](https://twitter.com/jcastilloaraujo)
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any project or just have a chat.
