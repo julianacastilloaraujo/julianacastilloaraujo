@@ -21,5 +21,4 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Connect with Me 😍
-
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any project or just have a chat.
