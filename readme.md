@@ -22,5 +22,4 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 
 ## Connect with Me 😍
 
-
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any project or just have a chat.
