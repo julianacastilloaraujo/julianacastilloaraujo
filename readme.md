@@ -1,4 +1,4 @@
-# Hi there, I'm Juliana👋
+# Hi there, I'm 👋
 
 Welcome to my GitHub profile! I'm passionate about software development, data science, and continuous learning. Here you'll find a collection of my projects, contributions, and a bit about me.
 
