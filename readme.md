@@ -2,13 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about software development, data science, and continuous learning. Here you'll find a collection of my projects, contributions, and a bit about me.
 
-## About Me 😊
-
-- 🌱 I’m currently learning and exploring new technologies.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Python, JavaScript, and data analysis.
-- 📫 How to reach me: [julianacastilloarauj@icloud.com](mailto:julianacastilloarauj@icloud.com)
-- ⚡ Fun fact: I love hiking and exploring nature.
 
 ## Technologies & Tools ❤️
 
